@@ -1,0 +1,22 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "a simple mini project to get back into coding and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/theFiipo/todo-app.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Philip Flury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theFiipo/todo-app/issues"
+  },
+  "homepage": "https://github.com/theFiipo/todo-app#readme"
+}
