@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/theFiipo/todo-app/issues"
   },
-  "homepage": "https://github.com/theFiipo/todo-app#readme"
+  "homepage": "https://github.com/theFiipo/todo-app#readme",
+  "devDependencies": {
+    "tape": "^5.7.5"
+  },
+  "dependencies": {
+    "jsdoc": "^4.0.2",
+    "jsdom-global": "^3.0.2"
+  }
 }
